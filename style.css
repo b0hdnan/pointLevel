@@ -13,6 +13,7 @@ html{
     text-align: center;
     border: rgba(204, 11, 11, 0.329) 10px solid;
     border-style: solid;
+    outline: none;
   }
   body{
     background-image: url(traffic.gif);
