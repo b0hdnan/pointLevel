@@ -3,6 +3,7 @@ let button = document.getElementById("button")
 let text = document.getElementById("text")
 button.addEventListener("click",level)
 img.addEventListener("click",clear)
+text.addEventListener("click",clear)
 function clear(){
   text.value = ""
 }
