@@ -1,0 +1,42 @@
+html{
+    min-width: 600px;
+  }
+  input{
+    background-color: rgba(240, 248, 255, 0.473);
+    box-sizing: border-box;
+    display: block;
+    width: 200px;
+    height: 200px;
+    font-size: 34px;
+    margin: 5px 20px 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    border: rgba(204, 11, 11, 0.329) 10px solid;
+    border-style: solid;
+    outline: none;
+  }
+  body{
+    background-image: url(traffic.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  .button{
+    background-color: rgba(245, 209, 6, 0.781);
+  }
+  .button:active{
+    border-style: double;
+    border-width: 20px;
+    background-color: rgb(216, 240, 5);
+  }
+  img{
+    display: block;
+    box-sizing: border-box;
+    margin: 5px 20px 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: rgba(247, 7, 7, 0.493) 10px solid;
+  }
+  
